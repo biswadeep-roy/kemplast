@@ -32,7 +32,7 @@ const About = () => {
                 <p className="text-gray-600 leading-relaxed mb-6">
                   KEMPLAST INDUSTRIES stands as one of the leading manufacturers of Chlorinated Paraffin
                   Wax under the brand name "CHEMCHLOR". Our state-of-the-art facility in Chhatral,
-                  Gujarat, boasts a production capacity of 10,000 MT per annum, with the capability to
+                  Gujarat, boasts a production capacity of 24,000 MT per annum, with the capability to
                   double output when required.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
