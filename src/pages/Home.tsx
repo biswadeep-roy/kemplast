@@ -56,7 +56,7 @@ const Home = () => {
                 <p className="text-gray-600 leading-relaxed mb-6">
                   We are proud to introduce ourselves as one of the leading manufacturers of Chlorinated
                   Paraffin Wax under the brand name "CHEMCHLOR." Our modern facility, located in
-                  Chhatral, Gujarat, has a production capacity of 10,000 MT per annum.
+                  Chhatral, Gujarat, has a production capacity of 24,000 MT per annum.
                 </p>
                 <ul className="space-y-4">
                   {[
